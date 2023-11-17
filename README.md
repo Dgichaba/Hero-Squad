@@ -92,4 +92,4 @@ gradle run
 
 ## License
 
-The app is licensed by MIT. [**HERE**](licence)
+The app is licensed by MIT. [**HERE**](licence.txt)
